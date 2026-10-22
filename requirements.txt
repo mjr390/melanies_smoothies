@@ -4,4 +4,4 @@ streamlit
 pandas
 snowflake-connector-python
 plotly
-python = "~=3.11.0"
+python = 3.11.0
