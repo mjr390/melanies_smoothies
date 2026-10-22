@@ -3,4 +3,3 @@ snowflake-snowpark-python
 streamlit
 pandas
 snowflake-connector-python
-python
